@@ -155,8 +155,8 @@ Let's connect and create something amazing together! 🚀"
 # License 
 
 <!-- License Badge -->
-[LICENSE](<a href="https://github.com/CletsyMedia/CletsyMedia/blob/main/LICENSE">
+<a href="https://github.com/CletsyMedia/CletsyMedia/blob/master/LICENSE">
   <img alt="License" src="https://img.shields.io/github/license/CletsyMedia/CletsyMedia?style=for-the-badge&logo=github">
-</a>)
+</a>
 
 
