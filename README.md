@@ -111,10 +111,9 @@
   </p>
 
   #
-
-  #
-  <!-- Github Stats -->
-  <details>
+  
+<!-- Github Stats -->
+<details>
 <summary><h1>GitHub  Stats</h1> <img height="30px" src="https://camo.githubusercontent.com/c0a1ff533f2a741658eb8a0551bd70fb541825ef55f07e8c761aa2795d2e0dfd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966"></summary>
 
   [![](https://raw.githubusercontent.com/cletsymedia/cletsymedia/master/profile-summary-card-output/outrun/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -123,15 +122,16 @@
 
   </details>
 <!-- GitHub Trophies -->
-  #
-  <h2><img width="30px" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"></h2> 
+#
+
+<h2><img width="30px" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"></h2> 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=onedark" alt="GitHub Trophies">
 </a>
 
 #
 <details>
- <summary><h3>👨‍💻 Cletus' Coding Journey</h3></summary>
+ <summary><h2>👨‍💻 Cletus' Coding Journey</h2></summary>
  "👋 Hi, I'm a passionate and self-taught frontend developer on an exciting coding journey. 💻
 
 Ever since I discovered my love for technology, I've been diving deep into the world of frontend development since 2018. With a strong determination to learn, I've taken my coding skills into my own hands, exploring various online resources, tutorials, and courses.
