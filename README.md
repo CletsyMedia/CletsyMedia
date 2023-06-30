@@ -59,7 +59,7 @@
 </p>
 
 #
-
+<!---Language and Tools--->
 <h1 align="left">Languages and Tools <img height="30px" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966">
 </h1>
 
@@ -72,6 +72,9 @@
   </a>
   <a href="https://tailwindcss.com/">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  </a>
+  <a href="https://desktop.github.com">
+  <img src="https://img.shields.io/badge/GitHub%20Desktop-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Desktop">
   </a>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
@@ -119,10 +122,10 @@
   [![](https://raw.githubusercontent.com/cletsymedia/cletsymedia/master/profile-summary-card-output/outrun/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/cletsymedia/cletsymedia/master/profile-summary-card-output/outrun/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cletsymedia/cletsymedia/master/profile-summary-card-output/outrun/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/cletsymedia/cletsymedia/master/profile-summary-card-output/outrun/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cletsymedia/cletsymedia/master/profile-summary-card-output/outrun/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Cletsymedia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cletsymedia)](https://github.com/cletsymedia/github-readme-activity-graph)
 
   </details>
 <!-- GitHub Trophies -->
-#
 
 <h2><img width="30px" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"></h2> 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
