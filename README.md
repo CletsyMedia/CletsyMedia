@@ -122,7 +122,7 @@
 [![](https://raw.githubusercontent.com/cletsymedia/cletsymedia/master/profile-summary-card-output/outrun/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cletsymedia/cletsymedia/master/profile-summary-card-output/outrun/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/cletsymedia/cletsymedia/master/profile-summary-card-output/outrun/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cletsymedia/cletsymedia/master/profile-summary-card-output/outrun/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="cletsymedia's Top Languages" src="https://cletsymedia-github-readme-stats.vercel.app/api/top-langs/?username=cletsymedia&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="cletsymedia's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=cletsymedia&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 	
   <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cletsymedia&show_icons=true&theme=outrun" alt="cletsymedia"/></p>
