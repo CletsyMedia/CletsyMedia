@@ -115,7 +115,10 @@
 
   </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cletsymedia&repo=github-readme-stats)](https://github.com/cletsymedia/github-readme-stats)
+ <a href="https://github.com/cletsymedia/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cletsymedia&repo=github-readme-stats" alt="Readme Card">
+</a>
+
 
   #
   
