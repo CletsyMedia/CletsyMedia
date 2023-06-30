@@ -71,7 +71,7 @@
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">
   </a>
   <a href="https://desktop.github.com">
-  <img src="https://img.shields.io/badge/GitHub%20Desktop-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Desktop">
+  <img src="https://img.shields.io/badge/GitHub%20Desktop-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Desktop">
   </a>
   <a href="https://tailwindcss.com/">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
@@ -84,7 +84,7 @@
   <a href="https://getbootstrap.com/">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   </a>
-  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=white&style=for-the-badge&color=333333" alt="React">    </a>
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=white&style=for-the-badge&color=333333" alt="React"></a>
   <a href="https://ubuntu.com/">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
   </a>
