@@ -111,33 +111,20 @@
   </p>
 
   #
-  # This Week learning
-  ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=cletsymedia&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
   #
   <!-- Github Stats -->
-  # GitHub  Stats <img height="30px" src="https://camo.githubusercontent.com/c0a1ff533f2a741658eb8a0551bd70fb541825ef55f07e8c761aa2795d2e0dfd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966">
+  <details>
+<summary># GitHub  Stats <img height="30px" src="https://camo.githubusercontent.com/c0a1ff533f2a741658eb8a0551bd70fb541825ef55f07e8c761aa2795d2e0dfd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966"></summary>
 
   [![](https://raw.githubusercontent.com/cletsymedia/cletsymedia/master/profile-summary-card-output/outrun/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/cletsymedia/cletsymedia/master/profile-summary-card-output/outrun/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cletsymedia/cletsymedia/master/profile-summary-card-output/outrun/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/cletsymedia/cletsymedia/master/profile-summary-card-output/outrun/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cletsymedia/cletsymedia/master/profile-summary-card-output/outrun/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="cletsymedia's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=cletsymedia&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-	
-  <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cletsymedia&show_icons=true&theme=outrun" alt="cletsymedia"/></p>
-  
-  <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=cletsymedia&show_icons=true&theme=outrun" alt="cletsymedia"/>
-  </p>
-
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cletsymedia&show_icons=true&theme=outrun" alt="cletsymedia" /></p> -->
-  <!-- <p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=cletsymedia&limit=5&theme=outrun&combine_all_yearly_contributions=true" alt="cletsymedia" /></p> -->
+  </details>
 <!-- GitHub Trophies -->
-
   #
   <h2><img width="30px" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"></h2> 
-
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=onedark" alt="GitHub Trophies">
 </a>
