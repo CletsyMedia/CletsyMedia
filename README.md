@@ -115,6 +115,8 @@
 
   </p>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cletsymedia&repo=github-readme-stats)](https://github.com/cletsymedia/github-readme-stats)
+
   #
   
 <!-- Github Stats -->
