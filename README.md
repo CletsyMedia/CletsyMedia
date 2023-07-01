@@ -154,14 +154,19 @@
 [![](https://raw.githubusercontent.com/cletsymedia/cletsymedia/master/profile-summary-card-output/outrun/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cletsymedia/cletsymedia/master/profile-summary-card-output/outrun/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/cletsymedia/cletsymedia/master/profile-summary-card-output/outrun/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cletsymedia/cletsymedia/master/profile-summary-card-output/outrun/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![cletsymedia's Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=cletsymedia&bg_color=141439&border_color=141439&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=cletsymedia&bg_color=141439&border_color=141439&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="cletsymedia's Activity Graph" style="border-radius: 6px;">
+</a>
+
 
   </details>
 <!-- GitHub Trophies -->
 
 <h2><img width="30px" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"></h2> 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=dracula&hide_border=true" alt="GitHub Trophies">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=dracula&no-frame=true" alt="GitHub Trophies" style="border: 1px solid #282a36;">
 </a>
+
 
 #
 <details>
