@@ -33,10 +33,17 @@
 <h2>🧑‍💻 Web Development Projects</h2>
 
 * [Manage Landing page](https://cletsymedia.github.io/ManageLandingPage/)
+* [Github User Search](https://cletsymedia.github.io/Github-Search-User-App/Index.html)
+* [StarbucksWeb](https://cletsymedia.github.io/StarbucksWeb/)
+* [Age Calculator](https://cletsymedia.github.io/Age_Calculator/)
 * [Crowdfund Page](https://cletsymedia.github.io/Crowdfunding/)
+* [Insure Landing Page](https://cletsymedia.github.io/Insure-Landing_Profile/#)
+* [Lunch Countdown](https://cletsymedia.github.io/Launch-Countdown-Timer/)
 * [Flyo Landing Page](https://cletsymedia.github.io/Fylo-Dark-Landing--Page/)
+* [Bookmark Landing Page](https://cletsymedia.github.io/Bookmark-Landing-Page-Frontendmentor-challenge-/)
 * [Card Validation](https://cletsymedia.github.io/Frontendmentor-Interactive-card-details/?#)
 * [Social Media Dashboard(Theme)](https://cletsymedia.github.io/Social-media-dashboard-with-theme-switcher/)
+* [Pricing Component](https://cletsymedia.github.io/Pricing-component-FontawesomeChallenge/)
 
 #
 <!-- Socials -->
