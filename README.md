@@ -160,7 +160,7 @@
 
 <h2><img width="30px" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"></h2> 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=outrun&hide_border=true" alt="GitHub Trophies">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=dracula&hide_border=true" alt="GitHub Trophies">
 </a>
 
 #
