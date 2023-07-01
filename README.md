@@ -125,8 +125,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=CletsyMedia&repo=alx-low_level_programming&title_color=ffcc00&text_color=c9cacc&icon_color=f519f7&bg_color=141439&border_color=141439"" />
 </a>
 
-<a href="https://github.com/CletsyMedia/Age_Calculator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CletsyMedia&repo=Age_Calculator&title_color=ffcc00&text_color=c9cacc&icon_color=f519f7&bg_color=141439&border_color=141439" alt="Age_Calculator">
+<a href="https://github.com/CletsyMedia/Project-tracking-intro">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CletsyMedia&repo=Project-tracking-intro&title_color=ffcc00&text_color=c9cacc&icon_color=f519f7&bg_color=141439&border_color=141439" alt="Project-tracking-intro">
 </a>
 
 </p>
