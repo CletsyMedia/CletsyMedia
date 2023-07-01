@@ -76,9 +76,6 @@
   <a href="https://tailwindcss.com/">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   </a>
-  <a href="https://desktop.github.com">
-  <img src="https://img.shields.io/badge/GitHub%20Desktop-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Desktop">
-  </a>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <a href="https://getbootstrap.com/">
@@ -117,8 +114,7 @@
   
 #
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cletsymedia&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
- 
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a> 
   #
   
 <!-- Github Stats -->
