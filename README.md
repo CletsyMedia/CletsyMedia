@@ -116,11 +116,15 @@
 <!---Extra Pins---->
 <p>
 <a href="https://github.com/CletsyMedia/Social-media-dashboard-with-theme-switcher">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CletsyMedia&repo=Social-media-dashboard-with-theme-switcher&title_color=ffcc00&text_color=c9cacc&icon_color=f519f7&bg_color=141439" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CletsyMedia&repo=Social-media-dashboard-with-theme-switcher&title_color=ffcc00&text_color=c9cacc&icon_color=f519f7&bg_color=141439"  style="width: 250px; height: 150px; />
 </a>
 <a href="https://github.com/CletsyMedia/Age_Calculator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CletsyMedia&repo=Age_Calculator&title_color=ffcc00&text_color=c9cacc&icon_color=f519f7&bg_color=141439" alt="Age_Calculator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CletsyMedia&repo=Age_Calculator&title_color=ffcc00&text_color=c9cacc&icon_color=f519f7&bg_color=141439" style="width: 250px; height: 150px; alt="Age_Calculator">
 </a>
+<a href="https://github.com/CletsyMedia/repo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=username&repo=repo" alt="Repo Name" style="width: 250px; height: 150px;">
+</a>
+
 </p>
 #
   
