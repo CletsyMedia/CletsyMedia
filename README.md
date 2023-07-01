@@ -117,7 +117,7 @@
 [![Age_Calculator](https://github-readme-stats.vercel.app/api/pin/?username=cletsymedia&repo=repo-name)](https://github.com/cletsymedia/Age_Calculator)
 
 <a href="https://github.com/CletsyMedia/Age_Calculator">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=Age_Calculator&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=CletsyMedia&repo=Age_Calculator&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 #
