@@ -116,14 +116,10 @@
 <!---Extra Pins---->
 <p>
 <a href="https://github.com/CletsyMedia/Social-media-dashboard-with-theme-switcher">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=CletsyMedia&repo=Social-media-dashboard-with-theme-switcher&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CletsyMedia&repo=Social-media-dashboard-with-theme-switcher&title_color=ffcc00&text_color=c9cacc&icon_color=f519f7&bg_color=141439" />
 </a>
 <a href="https://github.com/CletsyMedia/Age_Calculator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CletsyMedia&repo=Age_Calculator&title_color=ffcc00&text_color=c9cacc&icon_color=4AB197&bg_color=141439" alt="Age_Calculator">
-</a>
-
-<a href="https://github.com/CletsyMedia/Age_Calculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CletsyMedia&repo=Age_Calculator&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CletsyMedia&repo=Age_Calculator&title_color=ffcc00&text_color=c9cacc&icon_color=f519f7&bg_color=141439" alt="Age_Calculator">
 </a>
 </p>
 #
