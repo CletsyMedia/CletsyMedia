@@ -1,14 +1,14 @@
 <!-- <h1 align="center">Hi There👋,
 <br>I'm Cletus Samuel
 </h1> -->
-# 🏄‍♂️ Cletus Samuel
+<!-- # 🏄‍♂️ Cletus Samuel -->
 
-**`Digital Artisan(Web Developer/Teacher/Software Engineer)`**
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFE21C&width=800&lines=I'm+a+passionate+Frontend+Web+Developer+from+Nigeria;a+tech+savvy%2C+and+I+love+coding.+" alt="Typing SVG" /></a>
+<!-- **`Digital Artisan(Web Developer/Teacher/Software Engineer)`** -->
+<!-- Header(Banner) -->
 <a href="https://cletsymedia.github.io/Prof-Portfolio/">
 <img src="./bn/MyBanner.png">
 </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFE21C&width=800&lines=I'm+a+passionate+Frontend+Web+Developer+from+Nigeria;a+tech+savvy%2C+and+I+love+coding.+" alt="Typing SVG" /></a>
 <!-- <img src="https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png"> -->
 
 #
