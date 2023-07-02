@@ -35,14 +35,21 @@
 
 <h2>🧑‍💻 Web Development Projects</h2>
 
+* [Tip Calculator](https://cletsymedia.github.io/Frontendmentor-Tip-calculator/)
+* [Berotot Fitness](https://cletsymedia.github.io/Responsive-Gym/)
+* [Nike Product UI](https://github.com/CletsyMedia/Nike-ProductCard-UI)
 * [Manage Landing page](https://cletsymedia.github.io/ManageLandingPage/)
 * [Github User Search](https://cletsymedia.github.io/Github-Search-User-App/Index.html)
 * [StarbucksWeb](https://cletsymedia.github.io/StarbucksWeb/)
+* [Fitness BeStrong](https://cletsymedia.github.io/Fitness-BeStrong-/index.html)
+* [FAQ Accordion](https://cletsymedia.github.io/FrontendMentor-FAQ-Accordion-Challenge-/)
 * [Age Calculator](https://cletsymedia.github.io/Age_Calculator/)
+* [Form validation](https://cletsymedia.github.io/Frontend-Mentor-Intro-component-with-sign-up-form/)
 * [Crowdfund Page](https://cletsymedia.github.io/Crowdfunding/)
 * [Insure Landing Page](https://cletsymedia.github.io/Insure-Landing_Profile/#)
 * [Lunch Countdown](https://cletsymedia.github.io/Launch-Countdown-Timer/)
 * [Flyo Landing Page](https://cletsymedia.github.io/Fylo-Dark-Landing--Page/)
+* [Figo Restaurants](https://cletsymedia.github.io/Figo-Restruarant/index.html)
 * [Bookmark Landing Page](https://cletsymedia.github.io/Bookmark-Landing-Page-Frontendmentor-challenge-/)
 * [Card Validation](https://cletsymedia.github.io/Frontendmentor-Interactive-card-details/?#)
 * [Social Media Dashboard(Theme)](https://cletsymedia.github.io/Social-media-dashboard-with-theme-switcher/)
@@ -50,7 +57,7 @@
 
 #
 <!-- Socials -->
-<h1 align="left">Connect with me <img height="30px" src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif"></h1>
+<h2 align="left">Connect with me <img height="30px" src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif"></h2>
 <p align="left">
 <!-- Facebook Badge -->
 <a href="https://www.facebook.com/profile.php?id=100076488801469&mibextid=ZbWKwL">
@@ -70,8 +77,8 @@
 
 #
 <!---Language and Tools--->
-<h1 align="left">Languages and Tools <img height="30px" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966">
-</h1>
+<h2 align="left">Languages and Tools <img height="30px" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966">
+</h2>
 
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -119,20 +126,25 @@
   <a href="https://github.com/cletsymedia/your-repo">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
  </a>
-
   </p>
   
 <!---Extra Pins---->  
-# Extra Pins
+## Extra Pins(Repos)
 <p>
 <a href="https://github.com/CletsyMedia/Social-media-dashboard-with-theme-switcher">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=CletsyMedia&repo=Social-media-dashboard-with-theme-switcher&title_color=ffcc00&text_color=c9cacc&icon_color=f519f7&bg_color=141439&border_color=141439"" />
 </a>
+<a href="https://github.com/CletsyMedia/Frontendmentor-E-commerce-page">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CletsyMedia&repo=Frontendmentor-E-commerce-page&title_color=ffcc00&text_color=c9cacc&icon_color=f519f7&bg_color=141439&border_color=141439"" />
+</a>
 <a href="https://github.com/CletsyMedia/Crowdfunding">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=CletsyMedia&repo=Crowdfunding&title_color=ffcc00&text_color=c9cacc&icon_color=f519f7&bg_color=141439&border_color=141439"" />
 </a>
-<a href="https://github.com/CletsyMedia/alx-low_level_programming">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CletsyMedia&repo=alx-low_level_programming&title_color=ffcc00&text_color=c9cacc&icon_color=f519f7&bg_color=141439&border_color=141439"" />
+<a href="https://github.com/CletsyMedia/Responsive-Gym">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CletsyMedia&repo=Responsive-Gym&title_color=ffcc00&text_color=c9cacc&icon_color=f519f7&bg_color=141439&border_color=141439"" />
+</a>
+<a href="https://github.com/CletsyMedia/Frontendmentor-Tip-calculator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CletsyMedia&repo=Frontendmentor-Tip-calculator&title_color=ffcc00&text_color=c9cacc&icon_color=f519f7&bg_color=141439&border_color=141439"" />
 </a>
 <a href="https://github.com/CletsyMedia/Github-Search-User-App">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=CletsyMedia&repo=Github-Search-User-App&title_color=ffcc00&text_color=c9cacc&icon_color=f519f7&bg_color=141439&border_color=141439"" alt="Github-Search-User-App"/>
@@ -141,8 +153,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=CletsyMedia&repo=Todolist&title_color=ffcc00&text_color=c9cacc&icon_color=f519f7&bg_color=141439&border_color=141439"" alt="Todolist"/>
 </a>
 
-<a href="https://github.com/CletsyMedia/Project-tracking-intro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CletsyMedia&repo=Project-tracking-intro&title_color=ffcc00&text_color=c9cacc&icon_color=f519f7&bg_color=141439&border_color=141439" alt="Project-tracking-intro">
+<a href="https://github.com/CletsyMedia/Nike-ProductCard-UI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CletsyMedia&repo=Nike-ProductCard-UI&title_color=ffcc00&text_color=c9cacc&icon_color=f519f7&bg_color=141439&border_color=141439" alt="Nike-ProductCard-UI">
 </a>
 
 </p>
@@ -151,7 +163,7 @@
   
 <!-- Github Stats -->
 <details>
-<summary><h1>GitHub  Stats</h1> <img height="30px" src="https://camo.githubusercontent.com/c0a1ff533f2a741658eb8a0551bd70fb541825ef55f07e8c761aa2795d2e0dfd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966"></summary>
+<summary><h2>GitHub  Stats</h2> <img height="30px" src="https://camo.githubusercontent.com/c0a1ff533f2a741658eb8a0551bd70fb541825ef55f07e8c761aa2795d2e0dfd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966"></summary>
 
   [![](https://raw.githubusercontent.com/cletsymedia/cletsymedia/master/profile-summary-card-output/outrun/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/cletsymedia/cletsymedia/master/profile-summary-card-output/outrun/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cletsymedia/cletsymedia/master/profile-summary-card-output/outrun/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
