@@ -6,7 +6,9 @@
 **`Digital Artisan(Web Developer/Teacher/Software Engineer)`**
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFE21C&width=800&lines=I'm+a+passionate+Frontend+Web+Developer+from+Nigeria;a+tech+savvy%2C+and+I+love+coding.+" alt="Typing SVG" /></a>
-<img src="https://twitter.com/CletsyMedia/header_photo">
+<a href="https://cletsymedia.github.io/Prof-Portfolio/">
+<img src="./bn/MyBanner.png">
+</a>
 <!-- <img src="https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png"> -->
 
 #
