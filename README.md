@@ -37,7 +37,7 @@
 
 * [Tip Calculator](https://cletsymedia.github.io/Frontendmentor-Tip-calculator/)
 * [Berotot Fitness](https://cletsymedia.github.io/Responsive-Gym/)
-* [Nike Product UI](https://github.com/CletsyMedia/Nike-ProductCard-UI)
+* [Nike Product UI](https://cletsymedia.github.io/Nike-ProductCard-UI/)
 * [Manage Landing page](https://cletsymedia.github.io/ManageLandingPage/)
 * [Github User Search](https://cletsymedia.github.io/Github-Search-User-App/Index.html)
 * [StarbucksWeb](https://cletsymedia.github.io/StarbucksWeb/)
