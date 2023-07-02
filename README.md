@@ -129,7 +129,7 @@
   </p>
   
 <!---Extra Pins---->  
-## Extra Pins(Repos)
+## Extra Pins
 <p>
 <a href="https://github.com/CletsyMedia/Social-media-dashboard-with-theme-switcher">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=CletsyMedia&repo=Social-media-dashboard-with-theme-switcher&title_color=ffcc00&text_color=c9cacc&icon_color=f519f7&bg_color=141439&border_color=141439"" />
