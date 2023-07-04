@@ -36,7 +36,9 @@
 <h2>🧑‍💻 Web Development Projects</h2>
 
 <!-- * [Tip Calculator](https://cletsymedia.github.io/Frontendmentor-Tip-calculator/) -->
-&nbsp; [![Tip Calculator](https://img.shields.io/badge/Tip%20Calculator-🖱️?style=for-the-badge&logoColor=f519f7)](https://cletsymedia.github.io/Frontendmentor-Tip-calculator/)
+
+&nbsp; [![Tip Calculator](https://img.shields.io/badge/Tip%20Calculator-%F0%9F%96%B1%EF%B8%8F-141439?style=for-the-badge)](https://cletsymedia.github.io/Frontendmentor-Tip-calculator/)
+&nbsp; [![Berotot Fitness](https://img.shields.io/badge/Berotot%20Fitness-%F0%9F%96%B1%EF%B8%8F-141439?style=for-the-badge)](https://cletsymedia.github.io/Responsive-Gym/)
 * [Berotot Fitness](https://cletsymedia.github.io/Responsive-Gym/)
 * [Nike Product UI](https://cletsymedia.github.io/Nike-ProductCard-UI/)
 * [Manage Landing page](https://cletsymedia.github.io/ManageLandingPage/)
