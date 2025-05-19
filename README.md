@@ -131,11 +131,11 @@
 <!---Extra Pins---->  
 ## Extra Pins
 <p>
-<a href="https://github.com/CletsyMedia/MERN_STACK)">
+<a href="https://github.com/CletsyMedia/MERN_STACK">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=CletsyMedia&repo=MERN_STACK&title_color=ffcc00&text_color=c9cacc&icon_color=f519f7&bg_color=141439&border_color=141439"" />
 </a>
-<a href="https://github.com/CletsyMedia/Frontendmentor-E-commerce-page">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CletsyMedia&repo=Frontendmentor-E-commerce-page&title_color=ffcc00&text_color=c9cacc&icon_color=f519f7&bg_color=141439&border_color=141439"" />
+<a href="https://github.com/CletsyMedia/musicfy">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CletsyMedia&repo=musicfy-page&title_color=ffcc00&text_color=c9cacc&icon_color=f519f7&bg_color=141439&border_color=141439"" />
 </a>
 <a href="https://github.com/CletsyMedia/Crowdfunding">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=CletsyMedia&repo=Crowdfunding&title_color=ffcc00&text_color=c9cacc&icon_color=f519f7&bg_color=141439&border_color=141439"" />
