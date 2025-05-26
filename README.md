@@ -18,10 +18,10 @@
 
 - 🔭 I’m currently working on **improving my Software Engineering Skills.**
 
-- 🌱 I’m currently learning **Software Engineering @ALXAfrica**
+- 🌱 **Learning:** Advanced Software Engineering concepts and modern frameworks.
 
-- 👨I'm currently open for a new job opportunity, this is [![my badge](https://badgen.net/badge/My/Porfolio/6001D2?icon=WebAuthn)](https://cletsymedia.github.io/Prof-Portfolio/)
-- 👨‍💻 Some of my projects are available at [![my badge](https://badgen.net/badge/My/Porfolio/6001D2?icon=WebAuthn)](https://cletsymedia.github.io/Prof-Portfolio/)
+- **💼 Open to: New job opportunities** [![my badge](https://badgen.net/badge/My/Porfolio/6001D2?icon=WebAuthn)](https://cletsy.vercel.app/)
+- 👨‍💻 Some of my projects are available at [![my badge](https://badgen.net/badge/My/Porfolio/6001D2?icon=WebAuthn)]([https://cletsymedia.github.io/Prof-Portfolio/](https://cletsy.vercel.app/))
 
 - 🤓 Always learning new things.
 
@@ -33,8 +33,12 @@
 
 #
 
-<h2>🧑‍💻 Web Development Projects</h2>
+<h2>🧑‍💻 Featured Projects Projects</h2>
 
+*[Portfolio](https://cletsy.vercel.app)
+*[StreamSync](streamsync-q8hx.onrender.com/login)
+*[Authentication](https://mern-stack-2a15.onrender.com/login)
+*[Musicfy](https://musicfy-zvck.onrender.com/)
 * [Tip Calculator](https://cletsymedia.github.io/Frontendmentor-Tip-calculator/)
 * [Berotot Fitness](https://cletsymedia.github.io/Responsive-Gym/)
 * [Nike Product UI](https://cletsymedia.github.io/Nike-ProductCard-UI/)
