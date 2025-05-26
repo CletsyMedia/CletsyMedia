@@ -21,19 +21,16 @@
 - 🌱 **Learning:** Advanced Software Engineering concepts and modern frameworks.
 
 - **💼 Open to: New job opportunities** [![my badge](https://badgen.net/badge/My/Porfolio/6001D2?icon=WebAuthn)](https://cletsy.vercel.app/)
-- 👨‍💻 Some of my projects are available at [![my badge](https://badgen.net/badge/My/Porfolio/6001D2?icon=WebAuthn)]([https://cletsymedia.github.io/Prof-Portfolio/](https://cletsy.vercel.app/))
 
-- 🤓 Always learning new things.
+- **💬 Ask me about**  **HTML, CSS, Tailwind, React, JavaScript, Git, Excel, GHL**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Git, Excel**
+- **🎨 Hobbies:** Graphic Design, Blog Writing, Playstation and exploring new tech.
 
-- ✍️  In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles
-
-- ✉️  You can shoot me an email at [![Yahoo Badge](https://img.shields.io/badge/Yahoo-6001D2?style=flat-square&logo=yahoo&logoColor=white)](mailto:Cletussam12@yahooo.com)
+- **📫 Reach me:** [![Yahoo Badge](https://img.shields.io/badge/Yahoo-6001D2?style=flat-square&logo=yahoo&logoColor=white)](mailto:Cletussam12@yahooo.com)
 
 #
 
-<h2>🧑‍💻 Featured Projects Projects</h2>
+<h2>🧑‍💻 Featured Projects</h2>
 
 * [Portfolio](https://cletsy.vercel.app)
 * [StreamSync](streamsync-q8hx.onrender.com/login)
