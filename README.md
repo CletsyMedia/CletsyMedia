@@ -35,10 +35,10 @@
 
 <h2>🧑‍💻 Featured Projects Projects</h2>
 
-*[Portfolio](https://cletsy.vercel.app)
-*[StreamSync](streamsync-q8hx.onrender.com/login)
-*[Authentication](https://mern-stack-2a15.onrender.com/login)
-*[Musicfy](https://musicfy-zvck.onrender.com/)
+* [Portfolio](https://cletsy.vercel.app)
+* [StreamSync](streamsync-q8hx.onrender.com/login)
+* [Authentication](https://mern-stack-2a15.onrender.com/login)
+* [Musicfy](https://musicfy-zvck.onrender.com/)
 * [Tip Calculator](https://cletsymedia.github.io/Frontendmentor-Tip-calculator/)
 * [Berotot Fitness](https://cletsymedia.github.io/Responsive-Gym/)
 * [Nike Product UI](https://cletsymedia.github.io/Nike-ProductCard-UI/)
